@@ -6,13 +6,15 @@
     <title>Ejercicio 1 bucles</title>
 </head>
 <body>
-    <h1>Ejercicio 1: Múltiplos de 5 de 0 a 100 con bucle for</h1>
+    <h1>Ejercicio 3: Múltiplos de 5 de 0 a 100 con bucle do while</h1>
     <?php
-    for ($i = 0 ; $i<=100; $i++){
-        if ($i %5 == 0){
-            echo "$i <br>";
-        }
-    }
+        $i=0;
+        do{
+            if($i%5 == 0){
+                echo "$i <br>";
+            }
+            $i++;
+        }while ($i<=100)
     ?>
 </body>
 </html>
