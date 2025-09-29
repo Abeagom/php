@@ -10,7 +10,7 @@
        <?php
         $uno = "uno";
         $one = "one";
-        echo <tr><td>"$uno"</td></tr>
+        echo "<tr><td>$uno</td></tr>"
         ?>
     </table>
 </body>
