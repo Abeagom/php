@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ejercicio 1 bucles</title>
+    <title>Ejercicio 3 bucles</title>
 </head>
 <body>
     <h1>Ejercicio 3: Múltiplos de 5 de 0 a 100 con bucle do while</h1>

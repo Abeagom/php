@@ -9,7 +9,7 @@
 
 <body>
     <h1>Introduce contraseña. Tienes 4 intentos </h1>
-    <form action="saluda.php" method="get">
+    <form action="ejercicio7_bucles.php" method="get">
         <input type="password" name="contraseña"><br>
         <input type="submit" value="Enviar">
     </form>

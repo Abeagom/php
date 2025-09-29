@@ -22,7 +22,7 @@
         echo "Contraseña correcta. Acceso concedido";
     }else{
         $numIntentos--;
-        echo "Contraseña incorrecta. Intentos restantes $numIntentos"
+        echo "Contraseña incorrecta. Intentos restantes $numIntentos";
     }
     ?>
 </body>
